@@ -1,0 +1,1 @@
+java -jar piotre-0.0.1-SNAPSHOT.jar
