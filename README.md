@@ -16,4 +16,5 @@ This includes a reference for the [S2SML](https://github.com/eugenesiow/sparql2s
 * [sparql2stream](https://github.com/eugenesiow/sparql2stream)
 * [sparql2sql-server](https://github.com/eugenesiow/sparql2sql-server)
 * [sparql2fed](https://github.com/eugenesiow/sparql2fed)
+* [UNIOTE](https://github.com/eugenesiow/uniote-node)
 * [Linked Data Analytics](http://eugenesiow.github.io/iot/)
