@@ -1,5 +1,5 @@
 # PIOTRe
-Personal IoT Repository based on sparql2sql, sparql2stream and sparql2fed technologies. 
+Personal IoT Repository based on sparql2sql, sparql2stream and sparql2fed technologies. The name PIOTRe is also derived from the name Peter meaning "stone" or "rock" and is the foundation for applications built on interoperable and efficient database technology on lightweight IoT devices.
 
 ![alt text](https://cloud.githubusercontent.com/assets/9078335/16585548/5e10ee14-42b9-11e6-9935-936efe4e27dd.png "Architecture of PIOTRe")
 
