@@ -7,6 +7,8 @@ PIOTRe essentially consists of a sink for IoT data streams which flows to an eve
 
 Mappings in [S2SML](https://github.com/eugenesiow/sparql2sql/wiki/S2SML) have to be made as it's a necessary step for interoperability with other PIOTRe and semantic web systems.
 
+See [PIOTRe-web](https://github.com/eugenesiow/PIOTRe-web) for a frontend for PIOTRe to aid in adding data sources, apps, creating mappings and publishing metadata.
+
 Most information about sparql2sql can be found on the [wiki](https://github.com/eugenesiow/sparql2sql/wiki). 
 This includes a reference for the [S2SML](https://github.com/eugenesiow/sparql2sql/wiki/S2SML) language for sparql2sql mappings, [benchmarks](https://github.com/eugenesiow/sparql2sql/wiki/Benchmarks), implementation of the [swappable BGP resolution interface](https://github.com/eugenesiow/sparql2sql/wiki/SWIBRE), etc.
 
